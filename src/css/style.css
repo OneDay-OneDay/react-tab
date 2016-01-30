@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 300px;
+	height: 340px;
+}
+.Tab_tittle_wrap{
+	width: 300px;
+	height: 40px;
+}
+.Tab_tittle{
+	width: 100px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: #FFF;
+	background-color: #0EFF26;
+	display: inline-block;
+}
+.active{
+	color: #FFF;
+	background-color: #FF260E;
+}
+.Tab_item_wrap{
+	width: 300px;
+	height: 300px;
+}
+.Tab_item{
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	line-height: 300px;
+	color: #FFF;
+	display: none;
+}
+.Tab_item:nth-of-type(1){
+	background-color: #FF660E;
+}
+.Tab_item:nth-of-type(2){
+	background-color: #FF0E52;
+}
+.Tab_item:nth-of-type(3){
+	background-color: #07D739;
+}
+.show{
+	display: block;
+}
