@@ -1,7 +1,7 @@
 # react-tab
 react实现的tab切换组件  
-使用方法  
-<TabsControl>
+使用方法  
+`<TabsControl>
   <div name = "first">
 	  第一帧
 	</div>
@@ -11,4 +11,4 @@ react实现的tab切换组件
 	<div name = "third">
 	  第三帧
   </div>
-</TabsControl>
+</TabsControl>`
