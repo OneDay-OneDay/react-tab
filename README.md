@@ -1,2 +1,2 @@
 # react-tab
-react+es6+webpack实现的tab切换组件
+react实现的tab切换组件
